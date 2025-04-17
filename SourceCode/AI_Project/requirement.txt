@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+faiss-cpu
+langchain_google_genai
+openai-whisper
+moviepy==1.0.3
+SpeechRecognition
+numpy<=2.0.0
+numba
